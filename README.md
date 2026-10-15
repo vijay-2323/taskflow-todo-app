@@ -45,3 +45,4 @@ Automated tests
 License
 
 This project is available for personal learning and portfolio development.
+![TaskFlow Application](taskflow-screenshot.png)
